@@ -1,7 +1,7 @@
 <h2><a href="https://leetcode.com/problemset/all/">LeetCode</a>
-<code>0011/2474</code>
-→ <code>Easy 007/606</code>
-→ <code>Medium 0002/1321</code>
+<code>0011/2474</code><br>
+→ <code>Easy 007/606</code><br>
+→ <code>Medium 0002/1321</code><br>
 → <code>Hard 002/547</code></h2>
 <blockquote>
 <p><a href="https://leetcode.com/GolfRumors/">My homepage in leetcode.com</a></p>
